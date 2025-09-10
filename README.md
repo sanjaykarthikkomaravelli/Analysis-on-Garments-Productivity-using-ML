@@ -20,4 +20,4 @@ Key Findings :
 
 Incentives had the strongest influence on productivity.
 
-The Extreme Gradient Boosting (XGBoost) model achieved the best performance with an MAE of 0.0626
+The Extreme Gradient Boosting (XGBoost) model achieved the best performance with an MAE of 0.0803.
